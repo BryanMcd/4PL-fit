@@ -65,7 +65,9 @@ Whether uploading a CSV or pasting data, the tool expects the following columns.
 ## Quick maths
 
 The curve is fitted using the standard 4PL equation:
-$$ y = D + \frac{A - D}{1 + (\frac{x}{C})^B} $$
+$$ 
+y = D + \frac{A - D}{1 + (\frac{x}{C})^B} 
+$$
 
 Where:
 *   **x**: Concentration
